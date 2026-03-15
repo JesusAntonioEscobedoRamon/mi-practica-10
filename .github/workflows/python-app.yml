@@ -47,4 +47,4 @@ jobs:
           context: .
           push: true
           # ✅ IMPORTANTE: Usando tus datos específicos
-          tags: ghcr.io/JesusAntonioEscobedoRamon/mi-practica-10:latest
+          tags: ghcr.io/jesusantonioescobedoramon/mi-practica-10:latest
